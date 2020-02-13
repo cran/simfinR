@@ -1,11 +1,13 @@
-475232ac515ab4775942c30dcfc35815 *DESCRIPTION
+bb7d4cb368dab5f5a75a47470ad957a5 *DESCRIPTION
 e2ff4c81109bb9d1b467a471a030eeab *NAMESPACE
+8f8a57423812257102d18a2025bdf97f *NEWS.md
 4d09b051f56ace9148d528c3911d378a *R/get_available_companies.R
 e5ec7dae09444472e53d8689ab94bf3c *R/get_available_statements.R
 cc2130150668987a82bb1558db86f006 *R/get_fin_statements.R
 ab3415e9fc3b9d083beb17d0be1ca5dd *R/get_info_company.R
 1152b93051c39d6d94a9b525124454c3 *R/get_price_data.R
 35e62e44ed52cd90961cf53fff873e93 *R/get_single_fin_statement.R
+7e89379b47e320f077221ca76d5e66ea *R/onAttach.R
 65cef5e0674056f6fc07dd2b3ca85c13 *R/utils-pipe.R
 da182c8423e23e598cd0c65583ca669c *R/utils.R
 b7b8fae0dec91a71e6c46232cce7f5bd *README.md
