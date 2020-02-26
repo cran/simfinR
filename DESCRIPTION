@@ -1,8 +1,8 @@
 Package: simfinR
 Type: Package
 Title: Import Financial Data from the 'SimFin' Project
-Version: 0.2.0
-Date: 2020-02-13
+Version: 0.2.1
+Date: 2020-02-25
 Author: Marcelo S. Perlin
 Maintainer: Marcelo S. Perlin <marceloperlin@gmail.com>
 Description: Uses the 'SimFin' (SIMmplifying FINnance) api at <https://simfin.com/data/access/api> to download financial data straight into your R session. 
@@ -16,6 +16,6 @@ LazyData: true
 RoxygenNote: 7.0.2
 Imports: dplyr, magrittr, jsonlite, lubridate, memoise, purrr, crayon
 NeedsCompilation: no
-Packaged: 2020-02-13 13:25:07 UTC; msperlin
+Packaged: 2020-02-25 15:02:29 UTC; msperlin
 Repository: CRAN
-Date/Publication: 2020-02-13 13:40:02 UTC
+Date/Publication: 2020-02-26 19:40:06 UTC
