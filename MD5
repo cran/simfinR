@@ -1,12 +1,12 @@
-bc1e66658d501142e8adf79fa2a26369 *DESCRIPTION
+dc641614d5e85f58d099b64eac7e54b3 *DESCRIPTION
 e2ff4c81109bb9d1b467a471a030eeab *NAMESPACE
-8be91fc7f4b30e8d1de2a9c2ff51a291 *NEWS.md
+d9aeb92dd03488e85eb8535c35afe5b9 *NEWS.md
 4d09b051f56ace9148d528c3911d378a *R/get_available_companies.R
 e5ec7dae09444472e53d8689ab94bf3c *R/get_available_statements.R
-cc2130150668987a82bb1558db86f006 *R/get_fin_statements.R
+383bddbdb0ae4e42c3d10e6f7482c001 *R/get_fin_statements.R
 ab3415e9fc3b9d083beb17d0be1ca5dd *R/get_info_company.R
 1152b93051c39d6d94a9b525124454c3 *R/get_price_data.R
-35e62e44ed52cd90961cf53fff873e93 *R/get_single_fin_statement.R
+c0826066bc6652952ec9a07992ee74ca *R/get_single_fin_statement.R
 5146896ae0fa39f0a2feb53e05e11fd3 *R/onAttach.R
 65cef5e0674056f6fc07dd2b3ca85c13 *R/utils-pipe.R
 da182c8423e23e598cd0c65583ca669c *R/utils.R
@@ -14,7 +14,7 @@ b7b8fae0dec91a71e6c46232cce7f5bd *README.md
 4894ca10756199e25f914bfd34f517b0 *man/pipe.Rd
 28117fe612b0daf205c4dc17b8134fd4 *man/simfinR_get_available_companies.Rd
 1788127da846d07e1aa656b61f829ee2 *man/simfinR_get_available_statements.Rd
-94937434cfb33e1526ade08004f73fc6 *man/simfinR_get_fin_statements.Rd
+568a2fba6654cef0af7d5a8b6894ddd4 *man/simfinR_get_fin_statements.Rd
 223a0e72d01d38919de8912fa59ce5bf *man/simfinR_get_info_company.Rd
 96ff3a8b65d1d4ae4fd3dab5f8ee4a32 *man/simfinR_get_price_data.Rd
 2e1ef1cec45e34534a400e83cb34576f *man/simfinR_get_single_fin_statement.Rd
